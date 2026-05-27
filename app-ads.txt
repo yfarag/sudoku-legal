@@ -1,0 +1,9 @@
+# app-ads.txt for Sudoku Nova: Puzzle & Daily
+# Bundle IDs:
+#   iOS:     com.yasserf.sudoku  (ca-app-pub-9844469439597006~6304028391)
+#   Android: com.yasserf.sudoku  (ca-app-pub-9844469439597006~1099346320)
+#
+# Spec: https://iabtechlab.com/wp-content/uploads/2019/03/app-ads.txt-v1.0-final-.pdf
+# Verify in AdMob: Apps -> app-ads.txt (24h+ for crawl)
+
+google.com, pub-9844469439597006, DIRECT, f08c47fec0942fa0
